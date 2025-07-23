@@ -1,6 +1,6 @@
 # CRM Vue.js - Projet ESGI
 
-**Développé par : Acil et Kadem**
+**Développé par : Acil, Kadem et ikram**
 
 Un CRM développé dans le cadre de notre formation à l'ESGI, utilisant Vue.js 3, TypeScript et SQLite.
 
@@ -16,14 +16,14 @@ Nous avons choisi Vue.js 3 avec TypeScript pour apprendre ces technologies qui s
 
 ## Répartition du travail
 
-### Acil a travaillé sur :
+### Acil, Kadem ont travaillé sur :
 - **Frontend Vue.js** : Interface utilisateur, composants réutilisables
 - **Authentification** : Système de login/logout avec JWT
 - **Gestion d'état** : Stores Pinia pour les données
 - **Routing** : Navigation entre les pages
 - **Services API** : Communication avec le backend
 
-### Kadem a travaillé sur :
+### Kadem, Acil et Ikram ont travaillé sur :
 - **Backend Express** : API REST avec Node.js
 - **Base de données** : Schéma Prisma et SQLite
 - **Authentification backend** : Middleware JWT, hashage des mots de passe
@@ -227,4 +227,4 @@ npm run install:all        # Installe toutes les dépendances
 
 ## Conclusion
 
-Ce projet nous a permis de mettre en pratique beaucoup de concepts vus en cours. On a appris à travailler en équipe, à organiser un projet, et à utiliser des technologies modernes du développement web.
+Ce projet nous a permis de mettre en pratique beaucoup de concepts vus en cours. On a appris à travailler en équipe, à organiser un projet, et à utiliser des technologies nouvelles
